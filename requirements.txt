@@ -1,0 +1,3 @@
+crewai[google-genai]==1.15.23
+streamlit==1.65.0
+python-dotenv
